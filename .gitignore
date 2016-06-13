@@ -4,6 +4,7 @@
 *.scr
 *.txt
 *.rc
+*.swp
 
 ai.cfg
 autoexec.cfg
